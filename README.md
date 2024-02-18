@@ -17,7 +17,15 @@ This repository contains a Python application for processing and analyzing large
 1. Clone the repository:
 2. Install dependencies:
 3. Run the application:
+Technologies Used:
 
+Python
+Apache Spark
+PySpark
+Spark MLlib
+Project Status: Active
+
+Contributions: Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 ## Usage
 - Replace `data.csv` with your dataset file.
 - Customize data cleaning, feature engineering, and model training as needed.
